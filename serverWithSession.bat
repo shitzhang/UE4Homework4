@@ -1,0 +1,1 @@
+ "E:\UnrealEngine4.27\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\Netshoot.uproject" ServerWithSession -server -log -nosteam
