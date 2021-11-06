@@ -9,7 +9,8 @@
 增加了血条（由于是对战游戏，血条功能在编辑器内录制了视频进行展示）  
   
 The apk and video are in:  
-https://pan.baidu.com/s/121Z2U37JTJZOeJXV8RFI0g  
-password: xlp9  
+https://pan.baidu.com/s/1r9IXU1eT7rkqhKDFRp9y3w  
+password: 8x1s  
+
 
 
